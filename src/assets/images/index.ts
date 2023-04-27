@@ -1,0 +1,1 @@
+export { default as ADMIN_LOGIN_BG_IMAGE } from "./admin-login-background.webp"
